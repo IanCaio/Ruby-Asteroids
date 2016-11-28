@@ -1,0 +1,8 @@
+# Ignore /TODO file
+/TODO
+
+# Ignore /ConceptDesign file
+/ConceptDesign
+
+# Ignore /vimcommands file
+/vimcommands
